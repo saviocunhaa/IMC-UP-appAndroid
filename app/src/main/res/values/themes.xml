@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.IMC_UP" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+         <item name="colorPrimary">@color/yellow</item>
+         <item name="colorSecondary">@color/yellow_secundary</item>
+    </style>
+
+    <style name="Theme.IMC_UP" parent="Base.Theme.IMC_UP" />
+</resources>
