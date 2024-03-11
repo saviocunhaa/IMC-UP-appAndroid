@@ -4,6 +4,7 @@
         <!-- Customize your light theme here. -->
          <item name="colorPrimary">@color/yellow</item>
          <item name="colorSecondary">@color/yellow_secundary</item>
+        <item name="android:windowBackground">@color/yellow_backgroud</item>
     </style>
 
     <style name="Theme.IMC_UP" parent="Base.Theme.IMC_UP" />

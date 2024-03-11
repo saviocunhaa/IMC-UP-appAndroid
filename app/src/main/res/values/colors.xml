@@ -3,6 +3,7 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="green">#8BC34A</color>
-    <color name="yellow">#F2C12E</color>
-    <color name="yellow_secundary">#F2AE30</color>
+    <color name="yellow">#4d2c3b</color>
+    <color name="yellow_secundary">#0ab2f5</color>
+    <color name="yellow_backgroud">#eafcfb</color>
 </resources>
